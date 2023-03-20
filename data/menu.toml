@@ -2,14 +2,16 @@
 title = "info"
 
   [[entries.entries]]
-  title = "a (nearly) no-CSS, fast, minimalist Hugo theme ported from <a href='https://github.com/riggraz/no-style-please'>riggraz/no-style-please</a>."
+  title = "twitter"
+  url = "https://twitter.com/Axesus"
 
   [[entries.entries]]
-  title = "github repo"
-  url = "https://github.com/riggraz/no-style-please"
-
+  title = "github"
+  url = "https://github.com/hasanbanna"
+  
   [[entries.entries]]
-  title = "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+  title = "Building useful things for people"
+
 
 [[entries]]
 title = "all posts"
