@@ -10,7 +10,7 @@ title = "info"
   url = "https://github.com/hasanbanna"
   
   [[entries.entries]]
-  title = "Building useful things for people"
+  title = "Building useful things for people and myself"
 
 
 [[entries]]
@@ -25,3 +25,44 @@ title = "all posts"
 [[entries]]
 title = "rss"
 url = "index.xml"
+
+[[entries]]
+title = "Places I have been 🌍"
+  [[entries.entries]]
+  title = "Spain 💃"
+  [[entries.entries]]
+  title = "France 🥖"
+  [[entries.entries]]
+  title = "Switzerland 🏔️"
+  [[entries.entries]]
+  title = "Belgium 🍫"
+  [[entries.entries]]
+  title = "Egypt 🐪"
+  [[entries.entries]]
+  title = "Scotland 🦄"
+  [[entries.entries]]
+  title = "Wales 🐉"
+  [[entries.entries]]
+  title = "Portugal 🍷"
+
+[[entries]]
+title = "Mountains I have climbed ⛰️"
+[[entries.entries]]
+title = "Ben Nevis (Scotland) - 1,345 meters"
+[[entries.entries]]
+title = "Ben MacDui (Scotland) - 1,309 meters"
+[[entries.entries]]
+title = "Snowdon (Wales) - 1,085 meters"
+[[entries.entries]]
+title = "Scafell Pike (England) - 978 meters"
+[[entries.entries]]
+title = "Uetliberg (Switzerland) - 870 meters"
+[[entries.entries]]
+title = "Harder Kulm (Switzerland) - 1,321 meters"
+[[entries.entries]]
+title = "Torre de Cerredo (Spain) - 2,648 meters"
+[[entries.entries]]
+title = "Mont Rachais (France) - 1,046 meters"
+
+
+
